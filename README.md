@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Aj
 - - 👀 I’m interested in learning programming
-- 🌱 I’m currently learning python power bi
+- 🌱 I’m currently learning html and css
 - 💞️ I’m looking to collaborate on any fun way of learning programming
-- 📫 How to reach me ..., yo! whatsapp me😄
+- 📫 How to reach me ... whatsapp me😄
 - 😄 Pronouns: ...She😄😄😄
 - ⚡ Fun fact: ... Im still learning
 
